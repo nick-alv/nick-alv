@@ -4,11 +4,7 @@
 
 ###
 
-<p align="left">My name is Nicolas and I'm a 19y, from Brazil</p>
-
-###
-
-<h2 align="left">About me</h2>
+<h2 align="center"> ˗ ˏ ˋ<em>About  me</em>´ˎ ˗</h2>
 
 ###
 
