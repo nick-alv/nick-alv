@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="imgs/163 Sem Título_20260106123758.png"/>
+  <img src="imgs/163 Sem Título_20260106124507 (1).png"/>
 </div>
 
 ###
