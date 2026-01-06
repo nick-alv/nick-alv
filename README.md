@@ -1,5 +1,5 @@
 <div>
-  <img src="[imgs/img1.png](https://github.com/nick-alv/nick-alv/blob/main/imgs/img1.png)" />
+  <img src="" />
 </div>
 
 ###
