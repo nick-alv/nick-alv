@@ -5,7 +5,7 @@
   <h2 align="center">  ˗ ˏ ˋ<em>About  me</em>´ˎ ˗ </h2>
 <br>
 
-<img src="https://assets.pinterest.com/ext/embed.html?id=781233866624173273" width="250" align="right" style="margin-left: 20px;" />
+<img src="https://i.pinimg.com/originals/dd/91/33/dd9133083f322f28ed431a63a99a0382.gif" width="300" align="right" style="margin-left: 20;" />
 
 <br/>
 
