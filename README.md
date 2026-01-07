@@ -17,7 +17,7 @@
 
 <p align="center">
    <img src="imgs/educacao.png" width="15"/>   <em><b> Studying at the Universidade do Estado de Santa Catarina (UDESC) </b></em> <br/>
-   <img src="/imgs/img2.png" width="15"/>   <em><b> Technical Degree in Systems Development – SESI, SENAI </b></em><br/>
+   <img src="imgs/monitor.png" width="15"/>   <em><b> Technical Degree in Systems Development – SESI, SENAI </b></em><br/>
    <img src="imgs/cavalo (1).png" width="15"/>   <em><b> Chess Player  </b></em><br/>
 </p>
 
